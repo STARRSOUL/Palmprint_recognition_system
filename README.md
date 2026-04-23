@@ -40,7 +40,6 @@ DATASET_URL = https://www.kaggle.com/datasets/saqibshoaibdz/palm-dataset/data
 - Prepare a folder `dataset/` with two subfolders: `session1/` (training) and `session2/` (testing). Filenames should be identity IDs (e.g. `00001.tiff`).
 - The notebook expects one image per identity in each session (standard palmprint protocol). If you use any Other dataset, place files accordingly.
 
-If you need public datasets, look for contactless palmprint datasets (e.g., PolyU contactless palmprint / authors' dataset pages). Place downloaded images into the structure above.
 
 ## Requirements
 Install dependencies (example):
